@@ -2,6 +2,7 @@
 Je suis un apprenti développeur fullstack avec un parcours un peu atypique. J'ai commencé par l'électronique, puis j'ai bifurqué vers la cybersécurité. Du coup, j'ai eu la chance de toucher à pas mal de trucs super intéressants et de développer une perspective unique sur la technologie.
 
 🔍 Ce que je fais
+
 J'adore à coder, apprendre de nouvelles choses, et essayer de résoudre des problèmes complexes. Voici quelques-uns des langages avec lesquels je suis à l'aise :
 
 C/C++ : Mon premier amour en programmation.
